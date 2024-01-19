@@ -1,0 +1,80 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "maranamethunna nerath",
+      "thumbnail": "https://i.ytimg.com/vi/0RO9ORJSv9s/sddefault.jpg?v=648f1faf",
+      "url": "https://www.youtube.com/embed/0RO9ORJSv9s"
+    },
+    {
+      "id": "2",
+      "caption": "maranamethunna nerath",
+      "thumbnail": "https://i.ytimg.com/vi/AFykMNtG2_U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/0RO9ORJSv9s"
+    }
+  ],
+  "catagory": [
+    {
+      "id": "1",
+      "catagoryName": "Romance",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "maranamethunna nerath",
+          "thumbnail": "https://i.ytimg.com/vi/0RO9ORJSv9s/sddefault.jpg?v=648f1faf",
+          "url": "https://www.youtube.com/embed/0RO9ORJSv9s"
+        },
+        {
+          "id": "2",
+          "caption": "maranamethunna nerath",
+          "thumbnail": "https://i.ytimg.com/vi/AFykMNtG2_U/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/0RO9ORJSv9s"
+        }
+      ]
+    }
+  ],
+  "favourite": [
+    {
+      "id": "1",
+      "caption": "maranamethunna nerath",
+      "thumbnail": "https://i.ytimg.com/vi/0RO9ORJSv9s/sddefault.jpg?v=648f1faf",
+      "url": "https://www.youtube.com/embed/0RO9ORJSv9s"
+    },
+    {
+      "id": "2",
+      "caption": "maranamethunna nerath",
+      "thumbnail": "https://i.ytimg.com/vi/AFykMNtG2_U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/0RO9ORJSv9s"
+    }
+  ],
+  "watch-history": [
+    {
+      "id": "2b1c3740-350b-44bd-812b-45a1d5c5a6a4",
+      "thumbnail": "https://i.ytimg.com/vi/0RO9ORJSv9s/sddefault.jpg?v=648f1faf",
+      "caption": "maranamethunna nerath",
+      "url": "https://www.youtube.com/embed/0RO9ORJSv9s",
+      "date": "2024-01-19T13:28:18.986Z"
+    },
+    {
+      "id": "cf1760b4-43db-441e-936d-1dbd15261b93",
+      "thumbnail": "https://i.ytimg.com/vi/AFykMNtG2_U/maxresdefault.jpg",
+      "caption": "maranamethunna nerath",
+      "url": "https://www.youtube.com/embed/0RO9ORJSv9s",
+      "date": "2024-01-19T13:28:35.290Z"
+    },
+    {
+      "id": "7f519acf-c48b-4be0-a334-9b55f59202d1",
+      "thumbnail": "https://i.ytimg.com/vi/0RO9ORJSv9s/sddefault.jpg?v=648f1faf",
+      "caption": "maranamethunna nerath",
+      "url": "https://www.youtube.com/embed/0RO9ORJSv9s",
+      "date": "2024-01-19T13:28:48.411Z"
+    },
+    {
+      "id": "fc71acf3-2c52-4f03-bae1-fe3a868c5379",
+      "thumbnail": "https://i.ytimg.com/vi/AFykMNtG2_U/maxresdefault.jpg",
+      "caption": "maranamethunna nerath",
+      "url": "https://www.youtube.com/embed/0RO9ORJSv9s",
+      "date": "2024-01-19T13:59:20.563Z"
+    }
+  ]
+}
